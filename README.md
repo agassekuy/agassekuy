@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @agassekuy
-- 👀 I’m interested in Full-Stack Developer
-- 🌱 I’m currently learning Tailwind CSS
+# Hi 👋
